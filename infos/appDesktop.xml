@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-16"?>
-<LastestVersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Version>2024.12.01.1724</Version>
-  <LinkDownloadZipFile>https://github.com/AutoRegister/appDesktop/raw/refs/heads/main/binary/setup.zip</LinkDownloadZipFile>
-</LastestVersionInfo>
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>2024.12.01.2015</version>
+  <url>https://github.com/AutoRegister/appDesktop/raw/refs/heads/main/binary/setup.zip</url>
+  <mandatory>false</mandatory>
+</item>
